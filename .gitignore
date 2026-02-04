@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+nfl_env/
+
+# Environment variables
+.env
+
+# Data files (too large for git — download or generate locally)
+data/
+
+# Model training artifacts
+catboost_info/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/

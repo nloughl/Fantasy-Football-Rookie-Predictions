@@ -1,0 +1,10 @@
+pandas
+requests
+beautifulsoup4
+lxml
+nfl_data_py
+scikit-learn
+xgboost
+catboost
+python-dotenv
+certifi
