@@ -8,3 +8,6 @@ xgboost
 catboost
 python-dotenv
 certifi
+fastapi
+uvicorn
+joblib

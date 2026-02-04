@@ -11,6 +11,9 @@ data/
 # Model training artifacts
 catboost_info/
 
+# Saved models (binary files)
+models/
+
 # Python
 __pycache__/
 *.pyc
